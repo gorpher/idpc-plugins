@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Report>
+    <Lang>en</Lang>
+    <Page><Title>Report</Title><Icon>151</Icon>
+        <Item><Title>Version</Title><Icon>151</Icon><ID>257</ID><Value>AIDA64 v5.97.4600</Value></Item>
+        <Item><Title>Benchmark Module</Title><Icon>151</Icon><ID>266</ID><Value>4.3.783-x64</Value></Item>
+        <Item><Title>Homepage</Title><Icon>120</Icon><ID>259</ID><Value>http://www.aida64.com/</Value></Item>
+        <Item><Title>Report Type</Title><Icon>73</Icon><ID>260</ID><Value>Command-line: /SUM</Value></Item>
+        <Item><Title>Computer</Title><Icon>12</Icon><ID>261</ID><Value>VESYSTEM-MAX (VESYSTEM-MAX)</Value></Item>
+        <Item><Title>Generator</Title><Icon>48</Icon><ID>262</ID><Value>iki</Value></Item>
+        <Item><Title>Operating System</Title><Icon>110</Icon><ID>263</ID><Value>Microsoft Windows 10 Pro 10.0.19042.1052</Value></Item>
+        <Item><Title>Date</Title><Icon>16</Icon><ID>264</ID><Value>2021-06-10</Value></Item>
+        <Item><Title>Time</Title><Icon>97</Icon><ID>265</ID><Value>16:41</Value></Item>
+    </Page>
+    <Page><Title>Summary</Title><Icon>12</Icon><MenuTitle>Computer</MenuTitle><MenuIcon>12</MenuIcon>
+        <Group><Title>Computer</Title><Icon>12</Icon>
+            <Item><Title>Computer Type</Title><Icon>12</Icon><ID>582</ID><Value>基于 ACPI x64 的电脑</Value></Item>
+            <Item><Title>Operating System</Title><Icon>110</Icon><ID>513</ID><Value>Microsoft Windows 10 Pro</Value></Item>
+            <Item><Title>OS Service Pack</Title><Icon>34</Icon><ID>540</ID><Value>-</Value></Item>
+            <Item><Title>Internet Explorer</Title><Icon>38</Icon><ID>564</ID><Value>11.789.19041.0</Value></Item>
+            <Item><Title>Edge</Title><Icon>38</Icon><ID>590</ID><Value>44.19041.1023.0</Value></Item>
+            <Item><Title>DirectX</Title><Icon>116</Icon><ID>566</ID><Value>DirectX 12.0</Value></Item>
+            <Item><Title>Computer Name</Title><Icon>12</Icon><ID>514</ID><Value>VESYSTEM-MAX (VESYSTEM-MAX)</Value></Item>
+            <Item><Title>User Name</Title><Icon>48</Icon><ID>515</ID><Value>iki</Value></Item>
+            <Item><Title>Logon Domain</Title><Icon>46</Icon><ID>516</ID><Value>VESYSTEM-MAX</Value></Item>
+            <Item><Title>Date / Time</Title><Icon>16</Icon><Value>2021-06-10 / 16:41</Value></Item>
+        </Group>
+        <Group><Title>Motherboard</Title><Icon>77</Icon>
+            <Item><Title>CPU Type</Title><Icon>66</Icon><ID>517</ID><Value>QuadCore Intel Core i5-7400, 3400 MHz (34 x 100)</Value></Item>
+            <Item><Title>Motherboard Name</Title><Icon>77</Icon><ID>518</ID><Value>Haier H110H4-EM</Value></Item>
+            <Item><Title>Motherboard Chipset</Title><Icon>9</Icon><ID>519</ID><Value>Intel Sunrise Point H110, Intel Kaby Lake-S</Value></Item>
+            <Item><Title>System Memory</Title><Icon>50</Icon><ID>520</ID><Value>16299 MB  (DDR4 SDRAM)</Value></Item>
+            <Item><Title>BIOS Type</Title><Icon>9</Icon><ID>521</ID><Value>AMI (06/29/2017)</Value></Item>
+            <Item><Title>Communication Port</Title><Icon>63</Icon><ID>522</ID><Value>通信端口 (COM1)</Value></Item>
+            <Item><Title>Communication Port</Title><Icon>63</Icon><ID>522</ID><Value>通信端口 (COM2)</Value></Item>
+            <Item><Title>Communication Port</Title><Icon>63</Icon><ID>522</ID><Value>ECP 打印机端口 (LPT1)</Value></Item>
+        </Group>
+        <Group><Title>Display</Title><Icon>53</Icon>
+            <Item><Title>Video Adapter</Title><Icon>22</Icon><ID>523</ID><Value>Intel(R) HD Graphics 630  (1 GB)</Value></Item>
+            <Item><Title>Video Adapter</Title><Icon>22</Icon><ID>523</ID><Value>Intel(R) HD Graphics 630  (1 GB)</Value></Item>
+            <Item><Title>3D Accelerator</Title><Icon>116</Icon><ID>524</ID><Value>Intel HD Graphics 630</Value></Item>
+            <Item><Title>Monitor</Title><Icon>53</Icon><ID>525</ID><Value>Philips 243V7  [24" LCD]  (UK01830028086)</Value></Item>
+        </Group>
+        <Group><Title>Multimedia</Title><Icon>92</Icon>
+            <Item><Title>Audio Adapter</Title><Icon>92</Icon><ID>526</ID><Value>Intel Kaby Lake HDMI @ Intel Sunrise Point PCH - High Definition Audio Controller [D-1]</Value></Item>
+            <Item><Title>Audio Adapter</Title><Icon>92</Icon><ID>526</ID><Value>Realtek ALC662 @ Intel Sunrise Point PCH - High Definition Audio Controller [D-1]</Value></Item>
+        </Group>
+        <Group><Title>Storage</Title><Icon>7</Icon>
+            <Item><Title>IDE Controller</Title><Icon>20</Icon><ID>580</ID><Value>Intel(R) 100 Series/C230 Chipset Family SATA AHCI Controller</Value></Item>
+            <Item><Title>Storage Controller</Title><Icon>75</Icon><ID>581</ID><Value>Microsoft VHD 环回控制器</Value></Item>
+            <Item><Title>Storage Controller</Title><Icon>75</Icon><ID>581</ID><Value>Microsoft 存储空间控制器</Value></Item>
+            <Item><Title>Disk Drive</Title><Icon>21</Icon><ID>528</ID><Value>Microsoft 虚拟磁盘  (8 GB)</Value></Item>
+            <Item><Title>Disk Drive</Title><Icon>21</Icon><ID>528</ID><Value>Samsung SSD 860 EVO 250GB  (250 GB, SATA-III)</Value></Item>
+            <Item><Title>Disk Drive</Title><Icon>21</Icon><ID>528</ID><Value>ST1000DM010-2EP102  (1 TB, 7200 RPM, SATA-III)</Value></Item>
+            <Item><Title>SMART Hard Disks Status</Title><Icon>21</Icon><ID>585</ID><Value>OK</Value></Item>
+        </Group>
+        <Group><Title>Partitions</Title><Icon>21</Icon>
+            <Item><Title>C: (NTFS)</Title><Icon>21</Icon><ID>530</ID><Value>236990 MB (85124 MB free)</Value></Item>
+            <Item><Title>D: (NTFS)</Title><Icon>21</Icon><ID>530</ID><Value>953737 MB (752456 MB free)</Value></Item>
+            <Item><Title>Total Size</Title><Icon>21</Icon><ID>586</ID><Value>1162.8 GB (818.0 GB free)</Value></Item>
+        </Group>
+        <Group><Title>Input</Title><Icon>36</Icon>
+            <Item><Title>Keyboard</Title><Icon>45</Icon><ID>531</ID><Value>HID Keyboard Device</Value></Item>
+            <Item><Title>Keyboard</Title><Icon>45</Icon><ID>531</ID><Value>HID Keyboard Device</Value></Item>
+            <Item><Title>Mouse</Title><Icon>54</Icon><ID>532</ID><Value>HID-compliant mouse</Value></Item>
+            <Item><Title>Mouse</Title><Icon>54</Icon><ID>532</ID><Value>HID-compliant mouse</Value></Item>
+        </Group>
+        <Group><Title>Network</Title><Icon>57</Icon>
+            <Item><Title>Primary IP Address</Title><Icon>118</Icon><ID>538</ID><Value>172.26.112.1</Value></Item>
+            <Item><Title>Primary MAC Address</Title><Icon>118</Icon><ID>539</ID><Value>00-15-5D-15-AE-75</Value></Item>
+            <Item><Title>Network Adapter</Title><Icon>118</Icon><ID>534</ID><Value>Hyper-V Virtual Ethernet Adapter #2  (172.30.144.1)</Value></Item>
+            <Item><Title>Network Adapter</Title><Icon>118</Icon><ID>534</ID><Value>Hyper-V Virtual Ethernet Adapter #3  (172.26.112.1)</Value></Item>
+            <Item><Title>Network Adapter</Title><Icon>118</Icon><ID>534</ID><Value>Hyper-V Virtual Ethernet Adapter  (172.30.16.1)</Value></Item>
+            <Item><Title>Network Adapter</Title><Icon>118</Icon><ID>534</ID><Value>Realtek PCIe GbE Family Controller  (192.168.50.160)</Value></Item>
+        </Group>
+        <Group><Title>Peripherals</Title><Icon>19</Icon>
+            <Item><Title>Printer</Title><Icon>28</Icon><ID>536</ID><Value>Fax</Value></Item>
+            <Item><Title>Printer</Title><Icon>65</Icon><ID>536</ID><Value>HP LaserJet Pro M428-M429 [D626A7]</Value></Item>
+            <Item><Title>Printer</Title><Icon>65</Icon><ID>536</ID><Value>HP09EADE (HP LaserJet Pro M428-M429)</Value></Item>
+            <Item><Title>Printer</Title><Icon>65</Icon><ID>536</ID><Value>Microsoft Print to PDF</Value></Item>
+            <Item><Title>Printer</Title><Icon>65</Icon><ID>536</ID><Value>Microsoft XPS Document Writer</Value></Item>
+            <Item><Title>Printer</Title><Icon>65</Icon><ID>536</ID><Value>OneNote for Windows 10</Value></Item>
+            <Item><Title>USB3 Controller</Title><Icon>103</Icon><ID>588</ID><Value>Intel Sunrise Point PCH - USB 3.0 xHCI Controller [D-1]</Value></Item>
+            <Item><Title>USB Device</Title><Icon>101</Icon><ID>537</ID><Value>USB Composite Device</Value></Item>
+            <Item><Title>USB Device</Title><Icon>101</Icon><ID>537</ID><Value>USB 输入设备</Value></Item>
+            <Item><Title>USB Device</Title><Icon>101</Icon><ID>537</ID><Value>USB 输入设备</Value></Item>
+            <Item><Title>USB Device</Title><Icon>101</Icon><ID>537</ID><Value>USB 输入设备</Value></Item>
+            <Item><Title>USB Device</Title><Icon>101</Icon><ID>537</ID><Value>USB 输入设备</Value></Item>
+        </Group>
+        <Group><Title>DMI</Title><Icon>12</Icon>
+            <Item><Title>DMI BIOS Vendor</Title><Icon>9</Icon><ID>548</ID><Value>American Megatrends Inc.</Value></Item>
+            <Item><Title>DMI BIOS Version</Title><Icon>9</Icon><ID>549</ID><Value>EIH110HE05</Value></Item>
+            <Item><Title>DMI System Manufacturer</Title><Icon>12</Icon><ID>550</ID><Value>Haier</Value></Item>
+            <Item><Title>DMI System Product</Title><Icon>12</Icon><ID>551</ID><Value>Haier DT Computer</Value></Item>
+            <Item><Title>DMI System Version</Title><Icon>12</Icon><ID>552</ID><Value>V2.0</Value></Item>
+            <Item><Title>DMI System Serial Number</Title><Icon>12</Icon><ID>553</ID><Value>JA0YPP00A00YYJ1N0516</Value></Item>
+            <Item><Title>DMI System UUID</Title><Icon>12</Icon><ID>554</ID><Value>F44D30F2-28ED2018-01240950-43000000</Value></Item>
+            <Item><Title>DMI Motherboard Manufacturer</Title><Icon>77</Icon><ID>555</ID><Value>Haier</Value></Item>
+            <Item><Title>DMI Motherboard Product</Title><Icon>77</Icon><ID>556</ID><Value>H110H4-EM</Value></Item>
+            <Item><Title>DMI Motherboard Version</Title><Icon>77</Icon><ID>557</ID><Value>V2.0</Value></Item>
+            <Item><Title>DMI Motherboard Serial Number</Title><Icon>77</Icon><ID>558</ID><Value></Value></Item>
+            <Item><Title>DMI Chassis Manufacturer</Title><Icon>85</Icon><ID>559</ID><Value>Haier</Value></Item>
+            <Item><Title>DMI Chassis Version</Title><Icon>85</Icon><ID>560</ID><Value>V2.0</Value></Item>
+            <Item><Title>DMI Chassis Serial Number</Title><Icon>85</Icon><ID>561</ID><Value>Default string</Value></Item>
+            <Item><Title>DMI Chassis Asset Tag</Title><Icon>85</Icon><ID>562</ID><Value>Default string</Value></Item>
+            <Item><Title>DMI Chassis Type</Title><Icon>85</Icon><ID>563</ID><Value>Desktop Case</Value></Item>
+        </Group>
+    </Page>
+</Report>
+
